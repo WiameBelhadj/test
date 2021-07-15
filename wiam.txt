@@ -1,1 +1,2 @@
 wiam is learning GIT
+wiam is testing how to merge
